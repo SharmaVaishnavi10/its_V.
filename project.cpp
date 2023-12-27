@@ -119,7 +119,7 @@ int main (){
             cout<<"Thank you for using  our application"<<endl;
         }
         else{
-            cout<<"You have enter a wrong choice please selesct Y or N"<<endl;
+            cout<<"You have enter a wrong choice please select Y or N"<<endl;
             goto modagain;
         }   
   
@@ -184,7 +184,7 @@ int subtraction(){
     int total = 0;
     char choice;
     sub:
-    cout<<"Enter any tow numbers"<<endl;
+    cout<<"Enter any two numbers"<<endl;
     cin>>a>>b;
     if(a>>b){
     total = a - b;
@@ -202,7 +202,7 @@ int division(){
     int total = 0;
     char choice;
     div:
-    cout<<"Enter any tow numbers"<<endl;
+    cout<<"Enter any two numbers"<<endl;
     cin>>a>>b;
     if(a>>b){
     total = a / b;
@@ -219,7 +219,7 @@ int modulo(){
       int a,b;
     int total = 0;
     char choice;
-    cout<<"Enter any tow numbers"<<endl;
+    cout<<"Enter any two numbers"<<endl;
     cin>>a>>b;
     if(a>>b){
     total = a % b;
