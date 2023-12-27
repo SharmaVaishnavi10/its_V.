@@ -147,7 +147,7 @@ int addition(){
         return total;
     }
     else{
-            cout<<"You have entered a wrong choice please selesct Y or N"<<endl;
+            cout<<"You have entered a wrong choice please select Y or N"<<endl;
             goto Addagain;
         }
     return total;
@@ -172,7 +172,7 @@ int multiplication(){
         return total;
     }
     else{
-            cout<<"You have entered a wrong choice please selesct Y or N"<<endl;
+            cout<<"You have entered a wrong choice please select Y or N"<<endl;
             goto Mulagain;
         }
     return total;
