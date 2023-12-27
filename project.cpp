@@ -57,7 +57,7 @@ int main (){
             cout<<"Thank you for using  our application"<<endl;
         }
         else{
-            cout<<"You have enter a wrong choice please selesct Y or N"<<endl;
+            cout<<"You have enter a wrong choice please selest Y or N"<<endl;
             goto multiplyagain;
         }
     
@@ -97,7 +97,7 @@ int main (){
             cout<<"Thank you for using  our application"<<endl;
         }
         else{
-            cout<<"You have enter a wrong choice please selesct Y or N"<<endl;
+            cout<<"You have enter a wrong choice please selest Y or N"<<endl;
             goto diviedagain;
         }   
   
